@@ -1,0 +1,1 @@
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1345134908309377034/GXmzj_nSO2-y7o8rWx-q4Xl9ZZyZeIPxhWAJ-xQzMkzaIZfxtVW9xd4ewpVfcNoLt85Q"
